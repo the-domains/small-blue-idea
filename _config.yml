@@ -1,0 +1,28 @@
+name: Small Blue Idea
+favicon: null
+layout_spectrum: 0.33071624231524765
+typography_spectrum: 0.6835670263972133
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7360612072516233
+  lightness: 0.23206660454161465
+  saturation: 0.1661359122954309
+  rhythmicContrast: 0.2513810731470585
+purpose: []
